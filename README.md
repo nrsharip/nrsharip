@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Looking into**: 3D game development, artificial intelligence algorithms.
+**Looking into**: 3D games development, artificial intelligence algorithms.
 
 - The snake game built with AI genetic algorithm ([repository](https://github.com/nrsharip/ai-genetic-algorithm-snake), [demo](https://nrsharip.github.io/ai-genetic-algorithm-snake/))
   <br><img src="https://github.com/nrsharip/ai-genetic-algorithm-snake/blob/c3fb8c518062efed7904cc91dacd2f7929313de2/docs/run-compressed.gif?raw=true" width="30%">
