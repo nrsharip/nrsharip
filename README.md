@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 **Looking into**: 3D game development, artificial intelligence algorithms.
 
 - The snake game built with AI genetic algorithm ([repository](https://github.com/nrsharip/ai-genetic-algorithm-snake), [demo](https://nrsharip.github.io/ai-genetic-algorithm-snake/))
-  <br><img src="https://github.com/nrsharip/ai-genetic-algorithm-snake/blob/c3fb8c518062efed7904cc91dacd2f7929313de2/docs/run-compressed.gif?raw=true" width="25%">
+  <br><img src="https://github.com/nrsharip/ai-genetic-algorithm-snake/blob/c3fb8c518062efed7904cc91dacd2f7929313de2/docs/run-compressed.gif?raw=true" width="30%">
 - Shoot 'em up: Space Kit ([repository](https://github.com/nrsharip/threejs-shmup), [demo](https://nrsharip.github.io/threejs-shmup/))
-  <br><img src="https://github.com/nrsharip/threejs-shmup/blob/4e6d3217161e500d7b873360f78eec2e2361620c/docs/run-compressed.gif?raw=true" width="25%">
+  <br><img src="https://github.com/nrsharip/threejs-shmup/blob/4e6d3217161e500d7b873360f78eec2e2361620c/docs/run-compressed.gif?raw=true" width="30%">
 - Food Kit ([repository](https://github.com/nrsharip/threejs-food-kit), [demo](https://nrsharip.github.io/threejs-food-kit/))
-  <br><img src="https://github.com/nrsharip/threejs-food-kit/blob/5d9498cedad3601af796b069213a4f5044ae2525/docs/run-compressed.gif?raw=true" width="25%">
+  <br><img src="https://github.com/nrsharip/threejs-food-kit/blob/5d9498cedad3601af796b069213a4f5044ae2525/docs/run-compressed.gif?raw=true" width="30%">
