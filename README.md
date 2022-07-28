@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a href="https://github.com/nrsharip/ai-genetic-algorithm-snake">
         <img src="https://github.com/nrsharip/ai-genetic-algorithm-snake/blob/c3fb8c518062efed7904cc91dacd2f7929313de2/docs/run-compressed.gif?raw=true">
       </a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a href="https://github.com/nrsharip/threejs-shmup">
         <img src="https://github.com/nrsharip/threejs-shmup/blob/4e6d3217161e500d7b873360f78eec2e2361620c/docs/run-compressed.gif?raw=true">
       </a>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a href="https://github.com/nrsharip/threejs-food-kit">
         <img src="https://github.com/nrsharip/threejs-food-kit/blob/5d9498cedad3601af796b069213a4f5044ae2525/docs/run-compressed.gif?raw=true">
       </a>
