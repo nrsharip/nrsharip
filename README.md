@@ -36,7 +36,11 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      Shoot 'em up: Space Kit (
+      Shoot 'em up: Space Kit (powered by 
+        <a href="https://threejs.org/">Three.js</a>, 
+        <a href="https://github.com/kripken/ammo.js/">Ammo.js</a>, 
+        <a href="https://mugen87.github.io/yuka/">Yuka</a>
+      ) (
         <a href="https://github.com/nrsharip/threejs-shmup">repository</a>, 
         <a href="https://nrsharip.github.io/threejs-shmup/">demo</a>
       )
@@ -49,9 +53,36 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      Food Kit (
+      Food Kit (powered by 
+        <a href="https://threejs.org/">Three.js</a>, 
+        <a href="https://github.com/kripken/ammo.js/">Ammo.js</a>
+      ) (
         <a href="https://github.com/nrsharip/threejs-food-kit">repository</a>, 
         <a href="https://nrsharip.github.io/threejs-food-kit/">demo</a>
+      )
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/nrsharip/hammergenics">
+        <img src="https://github.com/nrsharip/hammergenics/blob/d729596672ffa3cdd14fbb280ec7b3a707cd5349/docs/gifs/run-compressed2.gif?raw=true">
+      </a>
+    </td>
+    <td>
+      HammerGenics: a 3D game engine written in Java with <a href="https://libgdx.com/">LibGDX</a> (
+        <a href="https://github.com/nrsharip/hammergenics">repository</a>
+      )
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/nrsharip/gradient-descent">
+        <img src="https://github.com/nrsharip/gradient-descent/blob/1631e04bfe4c309321424b166a7df1d81fe14766/python/images/run-compressed.gif?raw=true">
+      </a>
+    </td>
+    <td>
+      Gradient Descent optimization algorithms for AI Machine Learning (
+        <a href="https://github.com/nrsharip/gradient-descent">repository</a>
       )
     </td>
   </tr>
