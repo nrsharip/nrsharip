@@ -18,6 +18,39 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="25%">
+      <a href="https://github.com/nrsharip/unity-third-person">
+        <img src="https://github.com/nrsharip/unity-third-person/blob/e40c16b4ee994067ea61999e124a287e0f729248/docs/run-compressed.gif?raw=true">
+      </a>
+    </td>
+    <td>
+      Unity: a test of 
+      <a href="https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526">
+        Starter Assets - Third Person Character Controller
+      </a>
+      (
+        <a href="https://github.com/nrsharip/unity-third-person">repository</a>, 
+        <a href="https://nrsharip.github.io/unity-third-person/">demo</a>
+      )
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/nrsharip/unity-cwc-prot-1">
+        <img src="https://github.com/nrsharip/unity-cwc-prot-1/blob/0f0220dfe983f5385ba8aabc9f116ae45ec6adbb/docs/run-compressed.gif?raw=true">
+      </a>
+    </td>
+    <td>
+      Unity: 
+        <a href="https://learn.unity.com/project/unit-1-driving-simulation">Unit 1 - Driving Simulation</a> of the
+        <a href="https://learn.unity.com/course/create-with-code">Create With Code</a> course
+      (
+        <a href="https://github.com/nrsharip/unity-cwc-prot-1">repository</a>, 
+        <a href="https://nrsharip.github.io/unity-cwc-prot-1/">demo</a>
+      )
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
       <a href="https://github.com/nrsharip/ai-genetic-algorithm-snake">
         <img src="https://github.com/nrsharip/ai-genetic-algorithm-snake/blob/c3fb8c518062efed7904cc91dacd2f7929313de2/docs/run-compressed.gif?raw=true">
       </a>
