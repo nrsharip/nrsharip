@@ -18,12 +18,41 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="25%">
+      <a href="https://github.com/nrsharip/unity-space-kit">
+        <img src="https://github.com/nrsharip/unity-space-kit/blob/05303c896b87a9abab47280ee2dc5a453b9dd8b3/docs/run-compressed.gif?raw=true">
+      </a>
+    </td>
+    <td>
+      <a href="https://unity.com/">Unity</a>: a sandbox project for gameplay development for the
+      <a href="https://kenney.nl/assets/space-kit">Space Kit</a> assets
+      (
+        <a href="https://github.com/nrsharip/unity-space-kit">repository</a>, 
+        <a href="https://nrsharip.github.io/unity-space-kit/">demo</a>
+      )
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/nrsharip/blender-space-kit">
+        <img src="https://github.com/nrsharip/blender-space-kit/blob/72526bdd2008ef1324d727fa02e79512a0c60b69/docs/run-compressed.gif?raw=true">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.blender.org/">Blender</a>: rigifying and animation of characters from the
+      <a href="https://kenney.nl/assets/space-kit">Space Kit</a> assets
+      (
+        <a href="https://github.com/nrsharip/blender-space-kit">repository</a>
+      )
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
       <a href="https://github.com/nrsharip/unity-third-person">
         <img src="https://github.com/nrsharip/unity-third-person/blob/e40c16b4ee994067ea61999e124a287e0f729248/docs/run-compressed.gif?raw=true">
       </a>
     </td>
     <td>
-      Unity: a test of 
+      <a href="https://unity.com/">Unity</a>: a test of 
       <a href="https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526">
         Starter Assets - Third Person Character Controller
       </a>
@@ -40,7 +69,7 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      Unity: 
+      <a href="https://unity.com/">Unity</a>: 
         <a href="https://learn.unity.com/project/unit-1-driving-simulation">Unit 1 - Driving Simulation</a> of the
         <a href="https://learn.unity.com/course/create-with-code">Create With Code</a> course
       (
